@@ -1,1 +1,3 @@
 # MLACOIN
+
+Solana Token MLAC
